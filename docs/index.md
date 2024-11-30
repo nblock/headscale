@@ -35,3 +35,5 @@ Please see [Contributing](about/contributing.md) for more information.
 ## About
 
 Headscale is maintained by [Kristoffer Dalby](https://kradalby.no/) and [Juan Font](https://font.eu).
+
+push to main
